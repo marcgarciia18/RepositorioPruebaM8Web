@@ -38,5 +38,3 @@ estgbsdjkgwetbfdjsnkybg wjsdhgnwedzmv jiksngskdyn sl,gskord,gmvdjmfhnb ekjyhmgrs
     <head>
 <html>
 ```
-
-[enlace al canal] (https://www.twitch.tv/bardales47 "enlace a canal de twitch") 

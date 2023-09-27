@@ -49,7 +49,7 @@ estgbsdjkgwetbfdjsnkybg wjsdhgnwedzmv jiksngskdyn sl,gskord,gmvdjmfhnb ekjyhmgrs
 |Final|Hola|300€|
 
 ###### Exámen
--[] Opcion A 
+-[ ] Opcion A 
 -[X] Opcion B
--[] Opcion C
--[] Opcion D
+-[ ] Opcion C
+-[ ] Opcion D
